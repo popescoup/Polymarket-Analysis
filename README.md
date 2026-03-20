@@ -1,9 +1,9 @@
 # Polymarket-Analysis
 Data analysis of Polymarket data (SJSU DATA 201)
 
-Dataset: https://drive.google.com/drive/folders/1XwKQmLknbV4oq6B5i1OtpTxKxPC5WEyP?usp=sharing 
+Dataset & Contribution Tracking: https://drive.google.com/drive/folders/1XwKQmLknbV4oq6B5i1OtpTxKxPC5WEyP?usp=sharing 
 
-
+(Contribution Note: Queries and "team" designations in contribution tracking are work done collaboratively)
 
 Importing Data (Mac)
 
